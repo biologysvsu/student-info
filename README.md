@@ -11,10 +11,11 @@ Please submit your **ACCESS ID** and **GitHub username** by creating an issue us
 ### Instructions:
 1. Click on the **Issues** tab above.
 2. Click **New Issue**.
-3. Fill out your details in the following format:
+3. Add your name as title.
+4. Fill out your details in the following format:
    - **Name**: [Your Full Name]
    - **ACCESS ID**: [Your ACCESS ID]
    - **GitHub Username**: [Your GitHub Username]
-4. Submit the issue.
+5. Submit the issue.
 
 Thank you!
